@@ -1,2 +1,24 @@
 pylon/node_modules
 sextant/node_modules
+
+# dependencies
+sextant/.pnp
+sextant/.pnp.js
+
+# testing
+sextant/coverage
+
+# production
+sextant/build
+
+# misc
+sextant/.DS_Store
+sextant/.env.local
+sextant/.env.development.local
+sextant/.env.test.local
+sextant/.env.production.local
+
+sextant/npm-debug.log*
+sextant/yarn-debug.log*
+sextant/yarn-error.log*
+
