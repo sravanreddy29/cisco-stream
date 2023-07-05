@@ -1,0 +1,17 @@
+.card-main {
+    width: 30%;
+}
+
+.class-body {
+    width: 100%;
+}
+
+.class-child {
+    display: flex;
+    flex-direction: row;
+}
+
+.adrress-section {
+    inline-size: 300px;
+    word-wrap: break-word;
+}
